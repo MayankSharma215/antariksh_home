@@ -1,0 +1,46 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    height: 7%;
+  }
+  
+  .navbar{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 10px;
+  }
+  
+  .menu{
+    display: flex;
+    flex-direction: row;
+    width: 95%;
+  }
+  
+  .page{
+    color: white;
+    list-style: none;
+    width: 25%;
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0px;
+    padding: 20px;
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  .page:hover{
+    color: antiquewhite;
+    cursor: pointer;
+  }
+  
+  .logo{
+    height: 10%;
+    width: 20%;
+    padding: 10px;
+    margin: 10px;
+  }
+
+
+  #home{
+    color: rgb(190, 179, 163);
+  }
