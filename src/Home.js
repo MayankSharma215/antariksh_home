@@ -7,10 +7,15 @@ import Footer from './Compnents/Footer/Footer';
 function Home() {
   return (
     <>
-    <Header/>
+    <div className='backgroundImage'></div>
+    <div className='background'></div>
+    <div className='overlay'>    
+      <Header/>
     <Intro/>
      <News/>
      <Footer/>
+     </div>
+
      {/* <WhatWeDo/> */}
     </>
   );
