@@ -5,25 +5,25 @@
   }
   
   .navbar{
-    width: 80%;
+    width: 70%;
     margin-left: 10%;
     margin-top: 10px;
+    padding-left: 10%;
   }
   
   .menu{
     display: flex;
     flex-direction: row;
     width: 95%;
+    padding-top: 40px;
   }
-  
+
   .page{
     color: white;
     list-style: none;
-    width: 25%;
     font-size: x-large;
     font-family: 'Courier New', Courier, monospace;
-    margin: 0px;
-    padding: 20px;
+    margin-right: 55px;
     text-align: center;
     font-weight: bold;
   }

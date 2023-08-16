@@ -5,14 +5,16 @@
 }
 
 .socialMedia{
-    width: 50px;
-    height: 50px;
+    width: 80%;
+    height: auto;
     margin: 10px;
     margin-top: 70px;
 }
 
 #logo{
-    width: 10%;
-    height: 10%;
+    width: 7%;
+    height: 7%;
     margin-left: 75%;
+    margin-right: 2%;
+    margin-top: 2%;
 }

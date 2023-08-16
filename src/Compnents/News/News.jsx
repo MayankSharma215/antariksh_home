@@ -11,7 +11,7 @@ const News = () => {
         <div className="newsBox">
           NewsLetter
         </div>
-        <img src={astronaut} alt="astronaut" />
+        <img src={astronaut} alt="astronaut" className="astronaut"/>
       </div>
      );
 }
